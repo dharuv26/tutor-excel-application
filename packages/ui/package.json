@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-    "./button": "./src/Button.jsx"
+    ".": "./src/index.js",
+    "./LoginPage": "./src/LoginPage.jsx"
   },
   "scripts": {
     "lint": "eslint . --max-warnings 0"

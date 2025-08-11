@@ -1,0 +1,17 @@
+/* packages/ui/src/LoginPage.css */
+.login-page-container {
+  min-height: 100vh;
+  background-color: #f4f7f6; /* A light gray background */
+}
+
+.login-card {
+  width: 100%;
+  max-width: 450px;
+  border: none;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.login-logo {
+  height: 40px;
+  margin-bottom: 1.5rem;
+}
